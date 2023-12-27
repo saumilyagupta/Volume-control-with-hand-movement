@@ -32,5 +32,11 @@ pip install numpy
  ## 3. Run  volumehandcontrol.py Enjoy
 
 
-   
+
+# OUTPUT
+![Alt text](Reame_img\image-1.png)
+
+
+
+![Alt text](Reame_img\image.png)
  
