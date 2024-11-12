@@ -34,9 +34,9 @@ pip install numpy
 
 
 # OUTPUT
-![Alt text](Reame_img\image-1.png)
+![Alt text](Reame_img/image-1.png)
 
 
 
-![Alt text](Reame_img\image.png)
+![Alt text](Reame_img/image.png)
  
